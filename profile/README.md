@@ -1,5 +1,5 @@
-## Welcome to the OFFICIAL Github Repo of 2Advanced Studios LLC 👋
-
+## Welcome to the OFFICIAL Github Repo of the BD4D Foundation, Inc. 👋
+### a 501(c)(3) Corporation
 <!--
 
 **Here are some ideas to get you started:**
